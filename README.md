@@ -1,5 +1,5 @@
 # Final Presentation AITECH.pdf
-- This the final PPT presentation of the Internship
+- This is the final PPT presentation of the Internship
 
 # Heart Prediction final App.zip
 - This is the Android App for **"CardioCare: A Machine Learning-Enabled Android App for Heart Disease Risk prediction"**<br>
